@@ -14,7 +14,7 @@ SECRET_KEY = 'ik6=^rh#3*zhg(vpopb-svrdtbq0ed+pqg2)t+_wdng6te89xa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','newsapp.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','news-b.herokuapp.com']
 
 
 # Application definition
