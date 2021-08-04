@@ -367,14 +367,14 @@ section {
 }
 
 .search-bar{
-  padding:1px 5px;
+  padding: 2px;
   border-radius: 30px;
   outline: none;
 }
 .search-button{
   background-image: linear-gradient(to right, #FF512F 0%, #F09819  51%, #FF512F  100%);
   color: white; 
-  padding: 5px;
+  padding: 2px;
   border-radius: 30px; 
   outline: none;
 }
